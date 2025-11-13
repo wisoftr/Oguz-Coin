@@ -1,6 +1,6 @@
 <h1 align="center">🜂 OGZ COIN (OGZ)</h1>
 <p align="center">
-  <img src="YOUR_LOGO_LINK" width="120" alt="OGZ Logo"/>
+  <img src="https://github.com/wisoftr/Oguz-Coin/blob/main/OGZCoinLogo.png" width="120" alt="OGZ Logo"/>
 </p>
 <p align="center"><strong>Blockchain-powered digital asset designed to unify the economic future of Turkic communities worldwide.</strong></p>
 
